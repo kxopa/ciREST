@@ -4,8 +4,8 @@ Based in CodeIgniter v2.2.0, uses concepts from RESTful and methods MVC to creat
 
 ## License
 
-* (Product License)[license.txt]
-* (CodeIgniter License)[ci_license.txt]
+* [Product License](license.txt)
+* [CodeIgniter License](ci_license.txt)
 
 ## TODO
 
