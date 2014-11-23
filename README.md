@@ -1,11 +1,14 @@
-# ciREST v0.0.1 (Alpha)
+# ciREST v0.0.2 (Alpha)
 
-Based in CodeIgniter v2.2.0, uses concepts from RESTful and methods MVC to create APIs.
+RESTful server for CodeIgniter framework
 
 ## License
 
 * [Product License](license.txt)
-* [CodeIgniter License](ci_license.txt)
+
+## Install
+
+* [Install on your CodeIgniter](INSTALL.md)
 
 ## TODO
 
