@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Teste extends REST_Controller {
+class ApiSample extends REST_Controller {
 
 	public function get() {
 		$this->response('200', array(

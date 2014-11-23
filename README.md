@@ -9,6 +9,5 @@ Based in CodeIgniter v2.2.0, uses concepts from RESTful and methods MVC to creat
 
 ## TODO
 
-* Create documentation
+* Improve the documentation
 * Add authorization from request (OAuth, Bearer, etc.)
-* Set a MVP
