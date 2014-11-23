@@ -1,6 +1,6 @@
 # ciREST v0.0.2 (Alpha)
 
-RESTful server for CodeIgniter framework
+RESTful server for [CodeIgniter](http://codeigniter.com/) framework
 
 ## License
 
