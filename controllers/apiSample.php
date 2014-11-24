@@ -29,4 +29,4 @@ class ApiSample extends REST_Controller {
 }
 
 /* End of file teste.php */
-/* Location: ./application/controllers/v1/teste.php */
+/* Location: ./application/controllers/apiSample.php */
