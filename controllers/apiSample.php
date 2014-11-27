@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class ApiSample extends REST_Controller {
+class ApiSample extends MY_Controller {
 
 	public function get() {
 		$this->response('200', array(
@@ -29,4 +29,4 @@ class ApiSample extends REST_Controller {
 }
 
 /* End of file teste.php */
-/* Location: ./application/controllers/apiSample.php */
+/* Location: ./application/controllers/ApiSample.php */

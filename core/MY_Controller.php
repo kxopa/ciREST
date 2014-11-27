@@ -1,13 +1,18 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class REST_Controller extends CI_Controller {
+class MY_Controller extends CI_Controller {
 
 	private $resource;
+
+    public function __construct()
+    {
+            parent::__construct();
+    }
 
     public function _remap() {
 
     	$method = strtolower($this->input->server('REQUEST_METHOD'));
-    	$this->resource = $this->uri->segment(2);
+    	$this->resource = $this->uri->segment(1);
 
 		if (!method_exists($this->resource, $method)) {
 			$this->response('404', array( 'error' => 'Method ' . strtoupper($method) . " is not exist." ));
@@ -53,4 +58,4 @@ class REST_Controller extends CI_Controller {
 }
 
 /* End of file REST_Controller.php */
-/* Location: ./application/core/REST_Controller.php */
+/* Location: ./application/core/MY_Controller.php */
