@@ -6,6 +6,6 @@ CodeIgniter project's 'application' directory:
 * controllers/apiSample.php
 * core/REST_Controller.php
 
-The file 'api.php' in the 'controllers' directory is an optional 
+The file 'apiSample.php' in the 'controllers' directory is an optional 
 example controller file that shows how to use the ciREST in your 
 application.
