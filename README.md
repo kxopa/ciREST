@@ -12,5 +12,6 @@ RESTful server for [CodeIgniter](http://codeigniter.com/) framework
 
 ## TODO
 
+* Refactor to CI3 Library
 * Improve the documentation
 * Add authorization from request (OAuth, Bearer, etc.)
