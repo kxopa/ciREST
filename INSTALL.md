@@ -1,11 +1,8 @@
 # INSTALLATION
 
-Copy the following files to the corresponding directories in your 
-CodeIgniter project's 'application' directory:
+Copy the following files to the corresponding directories in your CodeIgniter project's 'application' directory:
 
-* controllers/apiSample.php
-* core/REST_Controller.php
+* controllers/api.php
+* library/Webapi.php
 
-The file 'apiSample.php' in the 'controllers' directory is an optional 
-example controller file that shows how to use the ciREST in your 
-application.
+The file 'api.php' in the 'controllers' directory is an optional example controller file that shows how to use the ciREST in your application.

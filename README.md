@@ -12,6 +12,6 @@ RESTful server for [CodeIgniter](http://codeigniter.com/) framework
 
 ## TODO
 
-* Refactor to CI3 Library
 * Improve the documentation
+* Make the methods GET, PUT, and DELETE receive parameters via URL (~/api/test/3).
 * Add authorization from request (OAuth, Bearer, etc.)
