@@ -1,4 +1,4 @@
-# ciREST v0.0.2 (Alpha)
+# ciREST
 
 RESTful server for [CodeIgniter](http://codeigniter.com/) framework
 
